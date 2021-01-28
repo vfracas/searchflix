@@ -1,4 +1,4 @@
-#Searchflix
+# Searchflix
 
 You don't know which show to watch tonight ? Don't worry, Searchflix is here for you !
 
